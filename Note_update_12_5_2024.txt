@@ -1,0 +1,3 @@
+-Khi ấn nút thanh toán -> tạo hóa đơn -> ghi orders vào bill_detail -> 
+update số lượng bán -> xóa order -> cập nhật trạng thái bàn
+
