@@ -1,0 +1,18 @@
+- Căn lề đều 2 bên
+- Giãn dòng 1.5
+- first line 1.5 inch (thụt đầu dòng)
+
+-Check biểu đồ hoạt động, rẽ nhánh đúng sai
+-usecase tổng quát thiếu đăng nhập, đổi mật khẩu
+
+-chia lại theo biểu đồ, không chưa theo chức năng
+
+-Hình vẽ cắt sát mép hình
+
+- logic liên kết Food-Order
+
+
+****Note 1/7
+-Đã chỉnh sửa xong DB, các biểu đồ (kiểm tra lại)
+-Chỉnh sửa biểu đồ, hình ảnh vào báo cáo, chỉnh sửa căn lề, giãn dòng (normal)
+-Chụp lại hình vẽ, chia lại cấu trúc theo biểu đồ k chia theo chức năng, bổ sung text
